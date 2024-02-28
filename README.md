@@ -1,2 +1,3 @@
-# Quiz
-Quiz Game, Typescript, React
+# React + TypeScript + Vite
+
+Quiz Game
